@@ -1,0 +1,14 @@
+phidata
+python-dotenv
+groq
+duckduckgo-search
+tavily-python
+openai
+selenium
+webdrive-manager
+bs4
+docx
+google-auth
+google-auth-oauthlib
+google-auth-httplib2
+google-api-python-client
