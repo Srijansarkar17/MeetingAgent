@@ -5,7 +5,7 @@ Introducing your ultimate meeting assistant: it records your meetings, transcrib
 
 **This is an ongoing project and is not yet fully completed.** 
 
-Some features may be in development or require additional configuration. I need to develop the frontend and also need to add some more cool features. Stay Tuned
+Some features may be in development or require additional configuration. I need to develop the frontend and also need to add some more cool features. Stay Tuned!
 
 ---
 
