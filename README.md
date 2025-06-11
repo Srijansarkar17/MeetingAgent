@@ -75,7 +75,7 @@ MeetStream AI is your ultimate meeting assistant that revolutionizes how you han
 
 ### 1. Clone the Repository
 ```bash
-git clone <repository-url>
+git clone https://github.com/Srijansarkar17/MeetingAgent.git
 cd meetstream-ai
 ```
 ### 2. Install dependencies
